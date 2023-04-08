@@ -1,6 +1,8 @@
 <div style="text-align:center">
 <img src="images/github2.jpg" alt="logo">
 </div>
+
+<br>
  <p align="center"> Hi there, I'm <b>Maxim</b> 👋</p>
 
 ## About me
