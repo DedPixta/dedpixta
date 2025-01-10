@@ -27,6 +27,7 @@ launching and supporting projects.
 ![Static Badge](https://img.shields.io/badge/gradle-%236DB33F?style=for-the-badge&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/kafka-%233F5767?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Static Badge](https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
