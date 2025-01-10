@@ -8,7 +8,7 @@
 ## About me
 
 🔥 I am an engineer with over 6 years of experience in IT. I have been improving my skills in Java development for more
-than 1 year.
+than 2 year.
 I have experience working with telecom operators and companies from the oil industry
 
 🎯 I worked at all stages of interaction with the customer, building architecture, selecting equipment and software,
