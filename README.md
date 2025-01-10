@@ -32,4 +32,4 @@ launching and supporting projects.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Static Badge](https://img.shields.io/badge/gradle-%2382B816?style=for-the-badge&logo=gradle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gradle-%236DB33F?style=for-the-badge&logo=gradle&logoColor=white)
